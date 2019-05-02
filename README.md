@@ -17,7 +17,7 @@ To digitalize the management of large incubation center by proposing a giant CMS
   - **Canteen** - place canteen orders from phone
   - **Profile** - show's profile of user
   - **Scannner** - scans any QR code and authenicates the request for transaction
-  - **Renting Equipments** - just sanc rq and book it from list
+  - **Renting Equipments** - just scan qr and book it from list
   - **Events** - event description with respective mentors
 
 
